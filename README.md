@@ -18,7 +18,8 @@ https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 2. Export srt subs to a file
 3. Import srt to https://www.nikse.dk online Subtitle Editor
 4. Download Subtitle as Digital Cinema Subtitle D-Cinema SMPTE 2014
-5. run the XSLT transformation
+5. edit the add_Zposition.xsl file for your own Zposition (default is -1.0)
+6. run the XSLT transformation
 
 <picture>
    <img src="images/picture_download_sub.jpg" alt="subexport" width="300" height="auto" />
