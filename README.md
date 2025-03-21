@@ -24,7 +24,7 @@ https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
    <img src="images/picture_download_sub.jpg" alt="subexport" width="300" height="auto" />
 </picture>
    
-## Transformation:
+## Transformation
 ```
 xsltproc -o MOVIE_SUBS_3D_with_Z.xml add_Zposition.xsl MOVIE_SUBS_2D.xml
 ```
