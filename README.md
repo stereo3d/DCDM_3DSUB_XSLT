@@ -37,3 +37,17 @@ xmllint --noout --schema DCDMSubtitle-2014.xsd MOVIE_SUBS_3D_with_Z.xml
 ## Background
 tools are used to prepare the stereoscopic 3D screening of the Busan International Short Film Festival BISFF.
 https://www.bisff.org/
+
+## Testing in 3D Cinema
+the workflow was successfully tested in the Busan Cinema Center in different projection formats.
+
+### Comparaison burnt-in subtitles and rendered subtitles
+<picture>
+   <img src="images/compliancetest01.jpg" alt="compliancetest01" width="300" height="auto" />
+</picture>
+
+
+### 2D subtitles overlay at negative 1% parallax over real images
+<picture>
+   <img src="images/compliancetest02.jpg" alt="compliancetest02" width="300" height="auto" />
+</picture>
